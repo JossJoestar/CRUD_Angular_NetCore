@@ -1,0 +1,7 @@
+#toast-container > div {
+    opacity:1;
+}
+
+table tr:hover{
+    cursor: pointer;
+}
